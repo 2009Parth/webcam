@@ -1,0 +1,49 @@
+body
+{
+    background-color:  linear-gradient( #33f16c, #86ea64, #59db98,  #59cfa4,  #86ea64,  #33f16c);
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+h1
+{
+    font-family:'Yeon Sung';
+    text-decoration: underline;
+}
+h3
+{
+    font-family:cursive;
+}
+h4
+{
+    font-family: serif;
+}
+textarea
+{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
+button
+{
+    border-style: solid;
+    border-radius: 7px;
+    padding: 15px;
+    font-family: cursive;
+}
